@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "npm start"
+    "test": "node index.js"
   },
   "dependencies": {
     "axios": "^1.7.0",
